@@ -10,8 +10,11 @@ $ sh install.sh / ./install.sh
 $ python2 darktools.py
 ```
 # Screenshot
-<img src="img/20190703_115830.png">
+<img src="img/20190703_115830.png"/>
+
 # jika terdapat error bisa hubungi kami :)
+```
 - w0n63d4n : 08811664850 on whatsapp
 - dvf47    : 082223108828 on whatsapp
 - sekian dari kami terimakasih :)
+```
