@@ -15,6 +15,8 @@ pip2 install requests
 sleep 2
 pip2 install mechanize
 sleep 2
+pip2 install bs4
+sleep 2
 chmod +x darktools.py
 clear
 echo "installing finish please enter python2 darktools.py"
