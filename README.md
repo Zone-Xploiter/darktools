@@ -5,9 +5,8 @@ Darktools from Zx
 ```
 $ pkg install git
 $ git clone https://github.com/Zone-Xploiter/darktools
-$ pip2 install bs4
 $ cd darktools
-$ sh install.sh / ./install.sh
+$ sh install.sh
 $ python2 darktools.py
 ```
 # Screenshot
